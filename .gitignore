@@ -2,5 +2,5 @@
 *.csv
 *db*
 *.png
-*txt
+tag*
 /.idea
